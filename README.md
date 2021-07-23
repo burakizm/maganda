@@ -6,7 +6,7 @@
   <h1>Telegram Doğruluk mu? Cesaret mi? Oyun Botu</h1>
 </div>
 <p align="center">
-        <a href="https://telegram.dog/TgEglence_Bot">~Bot~</a>
+        <a href="https://github.com/ReislerSupport/dcbot2">~Bot~</a>
 </p>
 
 ----
@@ -16,7 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/intikatimi/dcbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/dcbot2)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
@@ -41,7 +41,7 @@ async def _(client, message):
 ```
 
 # İletişim
-Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@YoungSoftware](https://t.me/YoungSoftware)
+Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@Kizilsancaksahibi](https://t.me/kizilsancaksahibi)
 
 
 # Credit
