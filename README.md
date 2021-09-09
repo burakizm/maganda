@@ -6,7 +6,7 @@
   <h1>Telegram Doğruluk mu? Cesaret mi? Oyun Botu</h1>
 </div>
 <p align="center">
-        <a href="https://github.com/EkimozSupport/maganda">~Bot~</a>
+        <a href="https://github.com/abdullah626/maganda">~Bot~</a>
 </p>
 
 ----
@@ -16,7 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/maganda)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abdullah626/maganda)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
